@@ -1,21 +1,27 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
 <head>
-<link rel="stylesheet" type="text/css" href="styles.css">
-	<title></title>
+    <meta charset="utf-8">
+    <title>Fortune Generator</title>
+    <script type="text/javascript" src="app.js"></script>
+    <link href='https://fonts.googleapis.com/css?family=Inconsolata' rel='stylesheet' type='text/css'>
 </head>
-<body>
-	<div id="fortune-cookie-text">
-	<button onclick="generateFortuneCookie()">Maik Yur Fortyuun!</button>
-	</div>
-	<div id="previous-fortunes">
-		<ul id="furtyurn">
-			<li>Yuu dishonah famiry!</li>
-			<li>You will find the love of your life! but they're already married.</li>
-		</ul>
-	
-	</div>
-</body>
-<script type="text/javascript" link="app.js"></script>
-</html>
 
+<body>
+	<h1><strong>Fortune Cookie Generator</strong></h1>
+
+    <button onclick="generateFortuneCookie()" class="generate-button">
+        Maik ur fortyuun!
+    </button>
+
+    <div id="stats"></div>
+
+    <div id="plate">
+        <span id="fortune-text"></span>
+        </div>
+            <div id="previous-fortunes-container">
+                <ul id="fortune-cookie-text">
+                </ul>
+            </div>
+</body>
+</html>
