@@ -1,0 +1,37 @@
+#fortune-text{
+	    position:relative;
+    width:100px;
+    height: 100%;
+
+}
+body{
+	background-image: url(http://data.whicdn.com/images/162267481/original.png);
+	background-repeat:no-repeat;
+	background-color: #2d3233
+}
+
+#stats {
+	color: #e3eced;
+}
+
+#lol{
+	color: #e3eced;
+}
+
+#fortune-cookie-text{
+	color: #e3eced;
+	background-color: #89818A;
+	border-radius: 25px;
+    border: 2px solid #89818A;
+    padding: 20px;
+    width: 700px;
+    height: 240px;
+    margin-bottom: 20px; 
+    margin:20px 50px;
+    position:relative;
+    overflow-y: auto;
+}
+
+h1{
+	color: #e3eced;
+}
