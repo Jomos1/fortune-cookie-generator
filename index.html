@@ -3,19 +3,21 @@
 <head>
     <meta charset="utf-8">
     <title>Fortune Generator</title>
+
     <script type="text/javascript" src="app.js"></script>
     <link href='https://fonts.googleapis.com/css?family=Inconsolata' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 
 <body>
-	<h1><strong>Fortune Cookie Generator</strong></h1>
+	<h1><strong><center>Fortune Cookie Generator</strong></center></h1>
+    <center><button onclick="generateFortuneCookie()" class="generate-button">Maik ur fortyuun!</center>
 
-    <button onclick="generateFortuneCookie()" class="generate-button">
-        Maik ur fortyuun!
+
     </button>
 
     <div id="stats"></div>
-
+    <div id="lol">
     <div id="plate">
         <span id="fortune-text"></span>
         </div>
@@ -24,4 +26,5 @@
                 </ul>
             </div>
 </body>
+
 </html>
