@@ -67,7 +67,12 @@ var fortunesList = [
     "It's 11 PM, WTH am I doing with my life writing fortunes for a living? What went wrong?",
     "YOU WANT SAD? WATCH THE END OF MARLEY & ME!",
     "The entire Bee movie but everytime the word 'bee' is said it switches to a 10 hour version of He-Man's 'Heyyayyayyayy' song, and every time 'whats goin on?' is said it switches back to the bee movie.",
-    "Don't wanna be a loser? Just friendly life advice: https://suicidepreventionlifeline.org/"
+    "Don't wanna be a loser? Just friendly life advice: https://suicidepreventionlifeline.org/",
+    "I invented this new drink, I call it the 'Bill Cosby!' Wanna try it?",
+    "The cake is a lie.",
+    "I'm a lie.",
+    "Ever played Portal? Issa good game.",
+    "If you haven't figured it out yet, some of these fortunes are refrencing Portal."
 //1/11/17 11:10 PM... KILL ME
 //11:12 PM ... WHHHHHHHHHHHHHHYYYYYYYYYYYYY WONT THIS CODE WORK WARUGUHUHUHUH
 
